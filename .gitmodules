@@ -4,3 +4,6 @@
 [submodule "pulse-detection/lib/Adafruit_Sensor"]
 	path = pulse-detection/lib/Adafruit_Sensor
 	url = https://github.com/adafruit/Adafruit_Sensor.git
+[submodule "Arduino-Makefile"]
+	path = Arduino-Makefile
+	url = https://github.com/sudar/Arduino-Makefile.git
