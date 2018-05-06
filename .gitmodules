@@ -1,0 +1,6 @@
+[submodule "pulse-detection/lib/Adafruit_MMA8451_Library"]
+	path = pulse-detection/lib/Adafruit_MMA8451_Library
+	url = https://github.com/MrZeroo00/Adafruit_MMA8451_Library
+[submodule "pulse-detection/lib/Adafruit_Sensor"]
+	path = pulse-detection/lib/Adafruit_Sensor
+	url = https://github.com/adafruit/Adafruit_Sensor.git
